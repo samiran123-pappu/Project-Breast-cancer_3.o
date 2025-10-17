@@ -1,0 +1,68 @@
+Age,Gender,Protein1,Protein2,Protein3,Protein4,Tumour_Stage,Histology,ER status,PR status,HER2 status,Surgery_type
+62,FEMALE,0.4569,0.73944,-0.63177,-0.060096,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+59,FEMALE,0.28025,0.89896,-0.61003,0.53418,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+77,FEMALE,-0.2987,-0.16129,0.46072,-0.39666,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+59,FEMALE,0.4523,1.3959,-0.23084,0.79631,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other
+56,FEMALE,-0.3506,1.8783,-0.36688,0.46539,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+53,FEMALE,0.26748,1.6773,-0.17536,0.46565,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+82,FEMALE,0.6596,1.5541,-0.82864,0.27855,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+51,FEMALE,-0.38466,0.80609,-1.6274,-0.51291,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy
+56,FEMALE,-0.2575,0.80691,-0.50917,-0.034585,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+72,FEMALE,0.41729,1.2071,-0.81206,0.93551,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy
+58,FEMALE,-0.54747,0.3066,-0.59195,-0.37415,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+57,FEMALE,0.19465,1.6678,0.39339,0.70333,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+45,FEMALE,-0.71163,1.6924,-0.80076,0.7944,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+61,FEMALE,-0.71947,2.5485,-0.15024,0.33968,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy
+38,FEMALE,-0.26845,0.19515,-1.0247,0.10172,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+77,FEMALE,-0.16159,1.4507,-0.75842,0.7322,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+72,FEMALE,-0.42298,0.3833,0.41699,-0.088218,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+51,FEMALE,-0.4762,1.7946,-0.14773,-0.30778,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+61,FEMALE,-0.7588,0.061787,-0.20638,-1.2409,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+60,FEMALE,0.20862,-0.56103,1.2385,0.96681,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+46,FEMALE,0.76582,0.52405,-0.15717,0.1439,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+74,FEMALE,0.97251,1.4268,-0.36657,-0.10782,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy
+36,FEMALE,0.080353,0.42638,0.54715,0.27368,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+76,FEMALE,-0.16053,-0.54398,0.7855,0.62199,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+56,FEMALE,-0.31474,-0.40061,0.75532,0.092249,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+63,FEMALE,0.90314,1.9678,-0.79079,0.96265,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+62,FEMALE,0.067627,1.2431,0.065687,-0.36482,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+50,FEMALE,-0.062153,1.612,-0.47404,-0.044448,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+56,FEMALE,0.34509,-0.21147,-0.19304,0.12427,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+37,FEMALE,0.2949,1.3625,0.69238,0.41002,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy
+66,FEMALE,-1.3441,1.128,-0.22935,-0.22993,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+84,FEMALE,0.83804,2.0332,-0.63166,0.56565,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other
+44,FEMALE,-0.27884,2.1688,-0.46233,0.2722,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+44,FEMALE,0.89185,0.4444,0.1102,0.15685,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+69,FEMALE,0.21398,1.3114,-0.32747,-0.23426,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+74,FEMALE,-0.03164,2.2806,0.0085752,-0.53801,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy
+39,FEMALE,-0.20347,1.0977,-0.046476,-0.045144,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+57,FEMALE,0.052729,1.5114,0.76722,0.18569,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+70,FEMALE,1.0674,0.99713,-0.58622,0.48622,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy
+46,FEMALE,0.095103,-0.41517,-0.19489,0.046527,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+43,FEMALE,0.44281,1.4144,-0.93252,0.12166,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+60,FEMALE,0.25287,2.2967,0.53244,0.046291,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy
+49,FEMALE,-0.064497,-0.87132,0.8688,0.31662,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+62,FEMALE,-0.38444,1.004,-0.63857,-0.54466,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+41,FEMALE,-0.07034,-0.27153,0.46708,-1.2196,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+49,FEMALE,-0.28082,0.71925,-0.171,0.54672,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+45,FEMALE,-0.27807,1.4291,-0.57895,0.22264,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+62,FEMALE,0.10464,0.7028,-0.29898,0.60103,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+45,FEMALE,-0.00071536,1.6332,0.13265,-1.4516,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+46,FEMALE,-0.64268,0.045374,-0.20426,0.65811,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy
+61,FEMALE,0.66639,2.1892,-1.1018,-0.83145,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy
+53,FEMALE,-0.6278,0.26102,-0.2042,-1.3053,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Simple Mastectomy
+90,FEMALE,-1.3882,0.77504,0.29088,-0.92427,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+57,FEMALE,-0.21378,-0.62814,1.0226,0.20244,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy
+43,FEMALE,-0.42032,0.57807,0.61447,-0.031505,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy
+60,FEMALE,-0.73062,0.46648,-0.49494,-0.21706,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other
+49,FEMALE,-0.14441,2.324,-0.70744,0.71895,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy
+79,FEMALE,-1.0622,1.1664,-0.65565,-0.092381,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy
+80,FEMALE,-0.31038,2.22,-0.55634,0.52372,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+63,FEMALE,0.20279,-0.043384,0.77504,0.62011,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy
+89,FEMALE,-0.24978,-0.35133,-0.099624,0.75834,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+67,FEMALE,0.31742,-0.55585,0.35657,0.79733,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+52,FEMALE,0.45553,1.3648,-0.53881,0.14426,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy
+77,FEMALE,0.47771,0.81881,-0.4063,-0.65479,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy
+47,FEMALE,0.58118,0.94321,-0.22693,0.36686,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other
+54,FEMALE,-0.58637,1.5136,1.0619,0.10124,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other
+70,FEMALE,0.70029,0.97347,-0.29645,0.10551,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy
